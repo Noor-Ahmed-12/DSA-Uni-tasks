@@ -1,4 +1,4 @@
-# Data Sytructure and Algorithm
+# Data Structure and Algorithm
 Uni task: data structure and algorithm using java 
 
 Hello everyone, I am Noor Ahmed Shaikh, studying software engineering.
