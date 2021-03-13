@@ -1,9 +1,9 @@
-# DSA-Uni-tasks
-data structure and algorithm using java 
+# Data Sytructure and Algorithm
+Uni task: data structure and algorithm using java 
 
-hello everyone, i am Noor Ahmed Shaikh studying software engineering and enthusaist in cyber security.
+Hello everyone, I am Noor Ahmed Shaikh, studying software engineering.
 
-In this repo you will find different programs of different Data structure using java
+In this repo you will find different programs of different Data structure using java.
 hope you guys will enjoy by learning the concept of DSA.
 
 keep motivate, keep code!!
