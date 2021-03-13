@@ -6,4 +6,4 @@ hello everyone, i am Noor Ahmed Shaikh studying software engineering and enthusa
 In this repo you will find different programs of different Data structure using java
 hope you guys will enjoy by learning the concept of DSA.
 
-keep code,keep happy!!
+keep motivate, keep code!!
